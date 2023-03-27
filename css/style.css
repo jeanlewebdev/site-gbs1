@@ -60,3 +60,36 @@ html,body{
     opacity: 0%;
     transition: opacity 1s;
 }
+
+.barbecue{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../img/barbecue.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: space-around;
+
+    align-items: center;
+
+    flex-direction: column;
+
+
+}
+
+.boulette{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background-image: url("../img/boulette.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.mesCartes{
+    justify-content: space-around;
+}
