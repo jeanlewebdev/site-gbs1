@@ -1,23 +1,12 @@
-.header{
+.maCarte{
+    border: 2px black solid;
+}
 
-    background-image: url("../img/3.jpg");
+.imageCarte{
+    background-image: url("../img/4.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
-
-    height: 90vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-
+    height: 20vh;
 }
 
-.titreProduit{
-    color: white;
-    font-size: 6em;
-    font-weight: bolder;
-
-    background-color: rgba(0, 0, 0, 0.32);
-}
