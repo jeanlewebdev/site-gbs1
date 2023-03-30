@@ -1,0 +1,23 @@
+.header{
+
+    background-image: url("../img/3.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.titreProduit{
+    color: white;
+    font-size: 6em;
+    font-weight: bolder;
+
+    background-color: rgba(0, 0, 0, 0.32);
+}
